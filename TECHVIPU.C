@@ -1,3 +1,4 @@
+// c lab practical, all operations
 #include<stdio.h>
 #include<conio.h>
 void main()
