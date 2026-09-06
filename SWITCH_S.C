@@ -6,17 +6,17 @@ void main ()
 {
  char ch;
  clrscr();
- printf("Menu\na. Dos\nb.food\nc.maggi\n\n");
+ printf("Menu\na. VadaPav\nb.MisalPav\nc.PuranPoli\n\n");
  printf("Enter your choice : ");
  scanf("%c",&ch);
  switch (ch){
- case 'a': printf("dosa");
+ case 'a': printf("VadaPav");
  break;
- case 'b': printf("food");
+ case 'b': printf("MisalPav");
  break;
- case 'c': printf("maggi");
+ case 'c': printf("PuranPoli");
  break;
- default : printf("go and coock");
+ default : printf("not available at this time");
 
  }
 
