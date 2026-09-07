@@ -6,9 +6,9 @@ void main ()
 	int i;
 	clrscr();
 	for(i=1; i<11; i++){
-	printf("%d.hlooo\n",i);
+	printf("%d.hellooo\n",i);
 	}
-	printf("helooooo");
+	printf("hellooooo");
 
 
 
