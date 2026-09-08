@@ -1,7 +1,7 @@
 // c lab practical, all operations
 #include<stdio.h>
 #include<conio.h>
-void main()
+int main ()
 {
 
 	int a,b,x;
@@ -80,5 +80,5 @@ printf("------------------------------------------------------------------------
 
 
 
-	getch();
+	greturn 0;
 }
